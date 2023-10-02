@@ -160,3 +160,11 @@ cython_debug/
 #.idea/
 
 .conda
+
+# video formats
+*.mp4
+*.avi
+*.mkv
+*.bin
+*.h264
+*.h265
