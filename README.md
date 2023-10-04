@@ -39,7 +39,7 @@ Go through the Pytorch "Learning the Basics" [Tutorials](https://pytorch.org/tut
 Mandatory readings should take 2 days.
 
 - [Git Stable Mainline Model](https://gitversion.net/docs/reference/modes/mainline)
-- [What is Scrum?](https://www.atlassian.com/agile/scrum)
+- *[What is Scrum?](https://www.atlassian.com/agile/scrum)
 - *Go through Module C: Mapping & Localization and Module E: Vision on the [F1Tenth website](https://f1tenth.org/learn.html).
 - *Install [ROS2](https://docs.ros.org/en/foxy/index.html) (Strongly recommended to be installed native Ubuntu 20.04 LTS) 
 - *[Google Coding Style Guide](https://google.github.io/styleguide/)
