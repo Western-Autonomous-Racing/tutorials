@@ -42,3 +42,4 @@ Mandatory readings should take 2 days.
 - *Go through Module C: Mapping & Localization and Module E: Vision on the [F1Tenth website](https://f1tenth.org/learn.html).
 - *Install [ROS2](https://docs.ros.org/en/foxy/index.html) (Strongly recommended to be installed native Ubuntu 20.04 LTS) 
 - *[Google Coding Style Guide](https://google.github.io/styleguide/)
+- *[What is Scrum?](https://www.atlassian.com/agile/scrum)
